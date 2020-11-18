@@ -1,0 +1,13 @@
+C:\Users\bzztt\source\repos\Day4_Exercise6Plus\Day4_Exercise6Plus\bin\Debug\netcoreapp3.1\Day4_Exercise6Plus.exe
+C:\Users\bzztt\source\repos\Day4_Exercise6Plus\Day4_Exercise6Plus\bin\Debug\netcoreapp3.1\Day4_Exercise6Plus.deps.json
+C:\Users\bzztt\source\repos\Day4_Exercise6Plus\Day4_Exercise6Plus\bin\Debug\netcoreapp3.1\Day4_Exercise6Plus.runtimeconfig.json
+C:\Users\bzztt\source\repos\Day4_Exercise6Plus\Day4_Exercise6Plus\bin\Debug\netcoreapp3.1\Day4_Exercise6Plus.runtimeconfig.dev.json
+C:\Users\bzztt\source\repos\Day4_Exercise6Plus\Day4_Exercise6Plus\bin\Debug\netcoreapp3.1\Day4_Exercise6Plus.dll
+C:\Users\bzztt\source\repos\Day4_Exercise6Plus\Day4_Exercise6Plus\bin\Debug\netcoreapp3.1\Day4_Exercise6Plus.pdb
+C:\Users\bzztt\source\repos\Day4_Exercise6Plus\Day4_Exercise6Plus\obj\Debug\netcoreapp3.1\Day4_Exercise6Plus.csprojAssemblyReference.cache
+C:\Users\bzztt\source\repos\Day4_Exercise6Plus\Day4_Exercise6Plus\obj\Debug\netcoreapp3.1\Day4_Exercise6Plus.AssemblyInfoInputs.cache
+C:\Users\bzztt\source\repos\Day4_Exercise6Plus\Day4_Exercise6Plus\obj\Debug\netcoreapp3.1\Day4_Exercise6Plus.AssemblyInfo.cs
+C:\Users\bzztt\source\repos\Day4_Exercise6Plus\Day4_Exercise6Plus\obj\Debug\netcoreapp3.1\Day4_Exercise6Plus.csproj.CoreCompileInputs.cache
+C:\Users\bzztt\source\repos\Day4_Exercise6Plus\Day4_Exercise6Plus\obj\Debug\netcoreapp3.1\Day4_Exercise6Plus.dll
+C:\Users\bzztt\source\repos\Day4_Exercise6Plus\Day4_Exercise6Plus\obj\Debug\netcoreapp3.1\Day4_Exercise6Plus.pdb
+C:\Users\bzztt\source\repos\Day4_Exercise6Plus\Day4_Exercise6Plus\obj\Debug\netcoreapp3.1\Day4_Exercise6Plus.genruntimeconfig.cache

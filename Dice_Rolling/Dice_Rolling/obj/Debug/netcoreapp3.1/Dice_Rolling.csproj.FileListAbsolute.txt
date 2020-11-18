@@ -1,0 +1,13 @@
+C:\Users\bzztt\source\repos\Dice_Rolling\Dice_Rolling\bin\Debug\netcoreapp3.1\Dice_Rolling.exe
+C:\Users\bzztt\source\repos\Dice_Rolling\Dice_Rolling\bin\Debug\netcoreapp3.1\Dice_Rolling.deps.json
+C:\Users\bzztt\source\repos\Dice_Rolling\Dice_Rolling\bin\Debug\netcoreapp3.1\Dice_Rolling.runtimeconfig.json
+C:\Users\bzztt\source\repos\Dice_Rolling\Dice_Rolling\bin\Debug\netcoreapp3.1\Dice_Rolling.runtimeconfig.dev.json
+C:\Users\bzztt\source\repos\Dice_Rolling\Dice_Rolling\bin\Debug\netcoreapp3.1\Dice_Rolling.dll
+C:\Users\bzztt\source\repos\Dice_Rolling\Dice_Rolling\bin\Debug\netcoreapp3.1\Dice_Rolling.pdb
+C:\Users\bzztt\source\repos\Dice_Rolling\Dice_Rolling\obj\Debug\netcoreapp3.1\Dice_Rolling.csprojAssemblyReference.cache
+C:\Users\bzztt\source\repos\Dice_Rolling\Dice_Rolling\obj\Debug\netcoreapp3.1\Dice_Rolling.AssemblyInfoInputs.cache
+C:\Users\bzztt\source\repos\Dice_Rolling\Dice_Rolling\obj\Debug\netcoreapp3.1\Dice_Rolling.AssemblyInfo.cs
+C:\Users\bzztt\source\repos\Dice_Rolling\Dice_Rolling\obj\Debug\netcoreapp3.1\Dice_Rolling.csproj.CoreCompileInputs.cache
+C:\Users\bzztt\source\repos\Dice_Rolling\Dice_Rolling\obj\Debug\netcoreapp3.1\Dice_Rolling.dll
+C:\Users\bzztt\source\repos\Dice_Rolling\Dice_Rolling\obj\Debug\netcoreapp3.1\Dice_Rolling.pdb
+C:\Users\bzztt\source\repos\Dice_Rolling\Dice_Rolling\obj\Debug\netcoreapp3.1\Dice_Rolling.genruntimeconfig.cache

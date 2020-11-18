@@ -1,0 +1,13 @@
+C:\Users\bzztt\source\repos\Workshop\Workshop\bin\Debug\netcoreapp3.1\Workshop.exe
+C:\Users\bzztt\source\repos\Workshop\Workshop\bin\Debug\netcoreapp3.1\Workshop.deps.json
+C:\Users\bzztt\source\repos\Workshop\Workshop\bin\Debug\netcoreapp3.1\Workshop.runtimeconfig.json
+C:\Users\bzztt\source\repos\Workshop\Workshop\bin\Debug\netcoreapp3.1\Workshop.runtimeconfig.dev.json
+C:\Users\bzztt\source\repos\Workshop\Workshop\bin\Debug\netcoreapp3.1\Workshop.dll
+C:\Users\bzztt\source\repos\Workshop\Workshop\bin\Debug\netcoreapp3.1\Workshop.pdb
+C:\Users\bzztt\source\repos\Workshop\Workshop\obj\Debug\netcoreapp3.1\Workshop.csprojAssemblyReference.cache
+C:\Users\bzztt\source\repos\Workshop\Workshop\obj\Debug\netcoreapp3.1\Workshop.AssemblyInfoInputs.cache
+C:\Users\bzztt\source\repos\Workshop\Workshop\obj\Debug\netcoreapp3.1\Workshop.AssemblyInfo.cs
+C:\Users\bzztt\source\repos\Workshop\Workshop\obj\Debug\netcoreapp3.1\Workshop.csproj.CoreCompileInputs.cache
+C:\Users\bzztt\source\repos\Workshop\Workshop\obj\Debug\netcoreapp3.1\Workshop.dll
+C:\Users\bzztt\source\repos\Workshop\Workshop\obj\Debug\netcoreapp3.1\Workshop.pdb
+C:\Users\bzztt\source\repos\Workshop\Workshop\obj\Debug\netcoreapp3.1\Workshop.genruntimeconfig.cache
