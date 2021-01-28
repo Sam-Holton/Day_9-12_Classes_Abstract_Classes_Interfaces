@@ -1,0 +1,14 @@
+﻿@{
+}
+
+@model Assessment5.Models.LoginViewModel
+
+<form asp-controller="Login" asp-action="Login" method="post">
+    <label>Name: </label>
+    <input asp-for="name" />
+
+    <label>Password: </label>
+    <input asp-for="password" />
+
+    <button>Submit</button>
+</form>
